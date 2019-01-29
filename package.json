@@ -1,0 +1,12 @@
+{
+  "name": "onesky-merge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js /Users/guilba00/Documents/localhost/image-posting.web/src/i18n/ ./input/onesky/"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
